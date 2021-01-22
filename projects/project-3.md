@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rubiks2.png
+image: images/rubiks2.jpg
 title: Rubik's Cube
 # permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
