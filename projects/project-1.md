@@ -13,8 +13,8 @@ summary: A rudimentary pixel art game designed to help master the basics of Java
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/bm1.png">
-  <img class="ui image" src="../images/bm2.png">
+  <img class="ui image" src="../images/bm1.jpg">
+  <img class="ui image" src="../images/bm2.jpg">
 </div>
 
 *Description pending*
