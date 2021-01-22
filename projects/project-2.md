@@ -13,8 +13,11 @@ labels:
 summary: Taking a 3D model for various Gundam units and making printable, PDF cut-outs for DIY projects
 ---
 
-<img class="ui medium right floated rounded image" src="../images/papercraft3.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/papercraft3.jpg">
+  <img class="ui image" src="../images/papercraft4.jpg">
+</div>
 
-Description pending
+*Description pending*
 
-# Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
