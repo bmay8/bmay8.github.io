@@ -4,7 +4,7 @@ type: project
 image: images/papercraft2.jpg
 title: Gundam PaperCraft
 # All dates must be YYYY-MM-DD format!
-date: 2021-5-15
+date: 2021-05-15
 labels:
   - Javascript
   - 2D/3D Transformation 
