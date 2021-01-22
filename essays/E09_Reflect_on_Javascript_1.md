@@ -38,12 +38,14 @@ This isn’t technically incorrect, but it is needlessly complicated and require
 
 The next iteration was a bit more streamlined and only took 6 minutes to code, making use of a ‘for loop:
 
+```
 for (let i = 0; i < maxInteger; i++) {
     if (i % 3 == 0) {
       arr.push(i);
     } else if (i % 5 == 0) {
       arr.push(i);
     }
+ ```
  
 Similarly, the third iteration only took 2 minutes and 48 seconds. Again though, the professor’s implementation was vastly superior.
 
