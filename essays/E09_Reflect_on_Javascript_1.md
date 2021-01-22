@@ -17,7 +17,7 @@ ICS 314 - M/W - 9:00 AM - 10:15 AM
 
 E09: Reflect on Javascript 1
 
-This class has been quite a bit of fun. It’s been quite a long time since I’ve written a scrap of code, but it’s not unlike riding a bicycle. Slowly but surely, the gears are starting to turn again.
+This class has been quite a bit of fun. It’s been a long time since I’ve written a scrap of code, but it’s not unlike riding a bicycle. Slowly but surely, the gears are starting to turn again. 
 
 Case in point, the ‘Euler’ exercise initially took me hours to solve. I was aware of the time constraints of the ‘Workout of the day’ exercise, but I wished to dive deep and attempt to grasp the material and language on my own, before viewing the correct way to solve the problem. As such, I learned that I took a very unconventional and illogical route to the finish line. Rather than iterating through the integers and ‘capturing’ the threes and fives, I instead endeavoured to started with a ‘three variable’ and a ‘five variable’, put them in a loop and add their respective values each iteration: 
 
@@ -47,6 +47,6 @@ for (let i = 0; i < maxInteger; i++) {
  
 Similarly, the third iteration only took 2 minutes and 48 seconds. Again though, the professor’s implementation was vastly superior.
 
-Back to square one with the ‘is it unique’ problem though. I toiled for hours before arriving at an unwieldy solution. But iterations 2, 3 and 4 became successively shorter and more optimized, making use of new methods and functions. 
+Back to square one with the ‘is it unique’ problem though. I toiled for hours before arriving at an unwieldy solution. But iterations 2, 3 and 4 became successively shorter and more optimized, making use of new methods and functions. It was all a bit quicker after I finally managed to get the Atom editor up and running (my internet is so slow that JSFiddle was effectively inoperable). 
 
 P.S. Sorry that I’ve been such a flake for the last two weeks. It’s unbecoming and I’ve effectively kneecapped myself as far as assignments go. I suppose I have another week to decide whether or not I’ll be able to still pass or if I should admit defeat, but either way, I’ve really enjoyed the course so far. I’m playing catch up, trying to do all of the assignments in order, but it might have been wiser to skip ahead rather than finish a day or two late. I know you mentioned leniency towards late submissions, but it felt a bit disingenuous on my part, after my lack of participation. 
