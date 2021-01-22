@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/Boss-Monsters03.jpg
 title: Pokemon Knock-off
-permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-10
 labels:
