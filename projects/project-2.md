@@ -17,4 +17,4 @@ summary: Taking a 3D model for various Gundam units and making printable, PDF cu
 
 Description pending
 
-#Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+# Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
