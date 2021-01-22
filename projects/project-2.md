@@ -15,7 +15,7 @@ summary: Taking a 3D model for various Gundam units and making printable, PDF cu
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/papercraft3.jpg">
-  <img class="ui image" src="../images/papercraft4.jpg">
+  <img class="ui image" src="../images/papercraft4 (2).jpg">
 </div>
 
 *Description pending*
