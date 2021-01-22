@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/papercraft2.png
+image: images/papercraft2.jpg
 title: Gundam PaperCraft
 # All dates must be YYYY-MM-DD format!
 date: 2021-5-15
