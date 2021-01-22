@@ -20,7 +20,8 @@ E09: Reflect on Javascript 1
 This class has been quite a bit of fun. It’s been quite a long time since I’ve written a scrap of code, but it’s not unlike riding a bicycle. Slowly but surely, the gears are starting to turn again.
 
 Case in point, the ‘Euler’ exercise initially took me hours to solve. I was aware of the time constraints of the ‘Workout of the day’ exercise, but I wished to dive deep and attempt to grasp the material and language on my own, before viewing the correct way to solve the problem. As such, I learned that I took a very unconventional and illogical route to the finish line. Rather than iterating through the integers and ‘capturing’ the threes and fives, I instead endeavoured to started with a ‘three variable’ and a ‘five variable’, put them in a loop and add their respective values each iteration: 
-	
+
+```
 while (threes < num) {
     if (threes % 5 != 0) {
       eulerArray.push(threes);
@@ -31,6 +32,7 @@ while (threes < num) {
       fives += 5;
     }
   };
+```  
 
 This isn’t technically incorrect, but it is needlessly complicated and required quite a bit of debugging. For instance, when the numbers three and five added successively, they both eventually add up to ‘15’. And consequently, ‘15’ was added to the ‘eulerArray’ twice. It took an embarrassingly long time to work out how to correct that. 
 
