@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Bradley May",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://bmay8.github.io/images/dirty_work2.jpg",
+    "email": "bmay8@hawaii.edu",
+    "phone": "808-319-1858",
+    "website": "https://bmay8.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "922 Maunakea St, Apt L",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,67 +17,59 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "bmay8",
+        "url": "http://github.com/bmay8"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "bmay8",
+        "url": "http://linkedin.com/in/bmay8"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Pixel art",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Adobe",
+        "Retro"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Video game development",
       "keywords": [
+        "Unity",
+        "Animation design"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "Neural networks",
+        "Deep learning"
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "intermediate",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "rudimentary",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
@@ -86,78 +78,42 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.8",
       "courses": [
+        "Chemistry",
+        "Physics",
+        "Calculus",
+        "Java Programming",
+        "Python Programming",
+        "C++ Programming"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Commericial Plumbing Inc",
+      "position": "Construction Worker",
+      "website": "https://www.complumbing.com/",
+      "startDate": "2014-07-01",
+      "endDate": "2018-08-30",
+      "summary": "Manager new plumbing installations",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Generally focused on installing new source and waste water lines"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Rotech Healthcare",
+      "position": "Medical consultant",
+      "website": "https://www.rotech.com/",
+      "startDate": "2010-03-12",
+      "endDate": "2018-07-20",
+      "summary": "Data anylsis/entry",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Processing incoming orders, answering calls, networking deliveries",
+        "locations and patients."
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
