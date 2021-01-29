@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: images/question.jpg
-title: E11: How to design smart questions
+title: How to design smart questions
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-28
 labels:
